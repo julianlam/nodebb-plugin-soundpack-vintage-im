@@ -1,0 +1,21 @@
+{
+  "name": "nodebb-plugin-soundpack-vintage-im",
+  "version": "0.0.0",
+  "description": "Vintage Instance Messenger Sound Pack",
+  "repository": {
+    "type": "git",
+    "url": "github.com/julianlam/nodebb-plugin-soundpack-vintage-im"
+  },
+  "keywords": [
+    "nodebb",
+    "sound",
+    "sounds",
+    "soundpack"
+  ],
+  "author": "Julian Lam <julian@nodebb.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianlam/nodebb-plugin-soundpack-vintage-im/issues"
+  },
+  "homepage": "https://github.com/julianlam/nodebb-plugin-soundpack-vintage-im"
+}

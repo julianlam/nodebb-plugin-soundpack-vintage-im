@@ -1,0 +1,11 @@
+{
+	"id": "nodebb-plugin-soundpack-vintage-im",
+	"name": "Vintage Instance Messenger Sound Pack",
+	"description": "A bundled set of sounds for every NodeBB installation",
+	"url": "https://github.com/julianlam/nodebb-plugin-soundpack-vintage-im",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:sounds.get", "method": "get" }
+	],
+	"minver": "0.4.2"
+}
