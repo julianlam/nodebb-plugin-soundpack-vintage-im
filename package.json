@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-soundpack-vintage-im",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Vintage Instance Messenger Sound Pack",
   "repository": {
     "type": "git",
